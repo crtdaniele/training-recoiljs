@@ -3,7 +3,7 @@
 <h3>Project</h3>
 
 ```
-npm start
+npm run start
 ```
 
 <h3>Skills</h3>
