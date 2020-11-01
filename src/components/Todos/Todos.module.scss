@@ -1,0 +1,20 @@
+.todos{
+    margin: 90px 0px 60px 0px;
+
+    .todos__item{
+        color: #333;
+        background-color: #e7e7e7;
+        border-radius: 5px;
+
+        p{
+            margin: 0;
+            margin-bottom: 10px;
+            font-size: 1rem;
+            padding: 10px;
+
+            &.todos__item--completed{
+                color: green;
+            }
+        }
+    }
+}
