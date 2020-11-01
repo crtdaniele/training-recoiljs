@@ -1,5 +1,11 @@
 <h1>A simple test for use RecoilJS</h1>
 
+<h3>Project</h3>
+
+```
+npm start
+```
+
 <h3>Skills</h3>
 
 - ReactJS (ES6)
