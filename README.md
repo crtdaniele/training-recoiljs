@@ -7,4 +7,9 @@
 
 Documentation: https://recoiljs.org
 
-by <a href="https://www.linkedin.com/in/daniele-carta-lugano/?locale=it_IT">Daniele Carta</a>
+<hr />
+
+- <a target="_blank" href="https://danielecarta.dev/">danielecarta.dev</a>
+- <a target="_blank" href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
+- <a target="_blank" href="https://www.linkedin.com/groups/8959815/">@JavaScript Developers Italiani</a>
+
